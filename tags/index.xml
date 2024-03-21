@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on mkBlog</title>
-    <link>https://blog.mkzero.top/tags/</link>
+    <link>https://mkeco.github.io/tags/</link>
     <description>Recent content in Tags on mkBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>mkzero</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.mkzero.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkeco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dotfile</title>
-      <link>https://blog.mkzero.top/tags/dotfile/</link>
+      <link>https://mkeco.github.io/tags/dotfile/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.mkzero.top/tags/dotfile/</guid>
+      <guid>https://mkeco.github.io/tags/dotfile/</guid>
       <description></description>
     </item>
     <item>
       <title>Mac</title>
-      <link>https://blog.mkzero.top/tags/mac/</link>
+      <link>https://mkeco.github.io/tags/mac/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.mkzero.top/tags/mac/</guid>
+      <guid>https://mkeco.github.io/tags/mac/</guid>
       <description></description>
     </item>
   </channel>

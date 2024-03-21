@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on mkBlog</title>
-    <link>https://blog.mkzero.top/tags/mac/</link>
+    <link>https://mkeco.github.io/tags/mac/</link>
     <description>Recent content in Mac on mkBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>mkzero</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.mkzero.top/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkeco.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>macdotfile</title>
-      <link>https://blog.mkzero.top/posts/macdotfile/</link>
+      <link>https://mkeco.github.io/posts/macdotfile/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.mkzero.top/posts/macdotfile/</guid>
+      <guid>https://mkeco.github.io/posts/macdotfile/</guid>
       <description>关闭 sip csrutil disable 下载字体 brew tap homebrew/cask-fonts &amp;amp;&amp;amp; brew install --cask font-meslo-lg-nerd-font MesloLGM Nerd Font Mono 安装软件 fedora dnf install fish chsh -s /usr/bin/fish git clone https://github.com/mkeco/dotfile.git ~/.config sudo dnf install navi lsd neovim conda -y mac sudo visudo -f /private/etc/sudoers.d/yabai # input the line below into the file you are editing. # replace &amp;lt;yabai&amp;gt; with the path to the yabai binary (output of: which yabai). # replace &amp;lt;user&amp;gt; with your username (output of: whoami).</description>
     </item>
   </channel>

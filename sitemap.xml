@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.mkzero.top/tags/dotfile/</loc>
+    <loc>https://mkeco.github.io/tags/dotfile/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/tags/mac/</loc>
+    <loc>https://mkeco.github.io/tags/mac/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/posts/macdotfile/</loc>
+    <loc>https://mkeco.github.io/posts/macdotfile/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/</loc>
+    <loc>https://mkeco.github.io/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/posts/</loc>
+    <loc>https://mkeco.github.io/posts/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/tags/</loc>
+    <loc>https://mkeco.github.io/tags/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mkzero.top/search/</loc>
+    <loc>https://mkeco.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.es/</loc>
+    <loc>https://mkeco.github.io/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.fr/</loc>
+    <loc>https://mkeco.github.io/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.hi/</loc>
+    <loc>https://mkeco.github.io/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.jp/</loc>
+    <loc>https://mkeco.github.io/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.pl/</loc>
+    <loc>https://mkeco.github.io/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.ru/</loc>
+    <loc>https://mkeco.github.io/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/search/_index.zh-cn/</loc>
+    <loc>https://mkeco.github.io/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://blog.mkzero.top/categories/</loc>
+    <loc>https://mkeco.github.io/categories/</loc>
   </url><url>
-    <loc>https://blog.mkzero.top/series/</loc>
+    <loc>https://mkeco.github.io/series/</loc>
   </url>
 </urlset>
